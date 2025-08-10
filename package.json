@@ -1,0 +1,24 @@
+{
+  "name": "conway",
+  "version": "1.0.0",
+  "description": "Conway's Game of Life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anvar42/Conway.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anvar42/Conway/issues"
+  },
+  "homepage": "https://github.com/anvar42/Conway#readme",
+  "devDependencies": {
+    "@types/node": "^24.2.1",
+    "typescript": "^5.9.2"
+  }
+}
